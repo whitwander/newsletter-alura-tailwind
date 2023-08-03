@@ -2,4 +2,4 @@
 
 ## Aprendendo Tailwind CSS com projeto da alura, com animação e responsividade.
 
-### Deploy
+### Deploy: https://newsletter-alura-tailwind.vercel.app/
