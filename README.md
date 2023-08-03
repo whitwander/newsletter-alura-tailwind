@@ -1,1 +1,5 @@
-# newsletter-alura-tailwind
+# Alura newsletter
+
+## Aprendendo Tailwind CSS com projeto da alura, com animação e responsividade.
+
+### Deploy
